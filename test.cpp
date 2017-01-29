@@ -1,7 +1,7 @@
 # include <iostream>
-using namespace std ;
+using namespace std;
 int main () {
-cout<<"hello world";
-return 0 ;
-
+      int x = 10l
+      cout<<"hello world "<<x<<endl;
+      return 0;
 }
